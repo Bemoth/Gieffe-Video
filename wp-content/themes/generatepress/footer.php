@@ -59,6 +59,7 @@ do_action( 'generate_before_footer' );
 do_action( 'generate_after_footer' );
 
 wp_footer();
+
 ?>
 
 </body>
